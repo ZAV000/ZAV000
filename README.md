@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Zoé Aguirre
 # 💫 About Me:
-I'm a web development student.<br>I'm based in Mexico.<br>I'm currently learning about FrontEnd assisted with AI.<br>I'm learning HTML.<br>I'm a medicine student but also an HR student.<br>
+🌐 I'm a web development student.<br>🇲🇽 I'm based in Mexico.<br>👾 I'm currently learning about FrontEnd assisted with AI.<br>📌 I'm learning HTML.<br>⚡ I'm a medicine student but also an HR student.<br>
 
 
 ## 🌐 Socials:
